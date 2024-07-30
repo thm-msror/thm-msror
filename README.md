@@ -1,7 +1,7 @@
 ## Hi there 👋
-Hello 👋, My name is Tehreem Masroor. I am currently a Junior Undergraduate Student in B.Sc. - IT / Data Science and AI at the University of Doha for Science and Technology (UDST).
+Hello 👋, My name is Tehreem Masroor. I am currently a junior undergraduate student studying for my B.Sc. - IT / Data Science and AI at the University of Doha for Science and Technology (UDST).
 
-- 🌱 I’m currently learning with help from Github Docs and GitHub Education.
+- 🌱 I’m learning with help from Github Docs and GitHub Education.
 - 🔭 I’m currently working on learning new programming skills.
 <!--
 **thm-msror/thm-msror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
