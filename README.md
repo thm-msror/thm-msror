@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hello 👋, My name is Tehreem Masroor. I am currently a junior undergraduate student studying for my B.Sc. - IT / Data Science and AI at the University of Doha for Science and Technology (UDST).
+Hello 👋, My name is Tehreem Masroor. I am currently a senior undergraduate student studying for my B.Sc. - IT / Data Science and AI at the University of Doha for Science and Technology (UDST).
 
 - 🌱 I’m learning with help from Github Docs and GitHub Education.
 - 🔭 I’m currently working on learning new programming skills.
