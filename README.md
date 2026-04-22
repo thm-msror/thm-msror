@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 I'm Tehreem Masroor, a senior undergraduate student in Data Science & AI at the University of Doha for Science and Technology (UDST).
 
 ### 🌱 About Me
@@ -7,7 +6,7 @@ I'm Tehreem Masroor, a senior undergraduate student in Data Science & AI at the 
 - Interested in building practical systems that automate and simplify workflows  
 - Currently learning through projects, Kaggle competitions, and hands-on experimentation  
 
-### ⚡ What I’m Currently Working On
+### ⚡ What I'm Currently Working On
 - Automation of data-heavy workflows
 - AI systems for real-world automation  
 - Kaggle competitions
@@ -16,10 +15,17 @@ I'm Tehreem Masroor, a senior undergraduate student in Data Science & AI at the 
 Python | Pandas | Scikit-learn | Data Analysis | ML Basics | SHAP
 
 ### 🧮 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thm-msror&layout=compact&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thm-msror&layout=compact&langs_count=5&theme=tokyonight&hide_border=true)
 
 ### 🏅 Badge
 [![committers.top badge](https://user-badge.committers.top/qatar/thm-msror.svg)](https://user-badge.committers.top/qatar/thm-msror)
+
+---
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+![](https://visitcount.itsvg.in/api?id=thm-msror&icon=5&color=6)
+
 <!--
 **thm-msror/thm-msror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
