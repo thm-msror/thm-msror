@@ -16,13 +16,13 @@ I'm Tehreem Masroor, a senior undergraduate student in Data Science & AI at the 
 Python | Pandas | Scikit-learn | Data Analysis | ML Basics | SHAP
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thm-msror&show_icons=true&hide=c%2B%2B)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thm-msror&show_icons=true&hide=contribs,prs)
 
 ### 📈 Activity
 ![GitHub Streak](https://streak-stats.demolab.com?user=thm-msror)
 
 ### 🧮 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thm-msror&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thm-msror&layout=compact&langs_count=5)
 
 ### 🏅 Badge
 [![committers.top badge](https://user-badge.committers.top/qatar/thm-msror.svg)](https://user-badge.committers.top/qatar/thm-msror)
