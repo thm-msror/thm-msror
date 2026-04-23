@@ -20,12 +20,6 @@ Python | Pandas | Scikit-learn | Data Analysis | ML Basics | SHAP
 ### 🏅 Badge
 [![committers.top badge](https://user-badge.committers.top/qatar/thm-msror.svg)](https://user-badge.committers.top/qatar/thm-msror)
 
----
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-![](https://visitcount.itsvg.in/api?id=thm-msror&icon=5&color=6)
-
 <!--
 **thm-msror/thm-msror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
