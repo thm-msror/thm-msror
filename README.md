@@ -10,9 +10,6 @@ I'm Tehreem Masroor, a senior undergraduate student in Data Science & AI at the 
 - Automation of data-heavy workflows
 - AI systems for real-world automation  
 
-### 🧮 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thm-msror&layout=compact&langs_count=5&theme=tokyonight&hide_border=true)
-
 ### 🏅 Badge
 [![committers.top badge](https://user-badge.committers.top/qatar/thm-msror.svg)](https://user-badge.committers.top/qatar/thm-msror)
 
