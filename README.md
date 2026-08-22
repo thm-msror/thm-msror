@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Tehreem Masroor, a senior undergraduate student in Data Science & AI at the University of Doha for Science and Technology (UDST).
+My name is Tehreem Masroor, and I am a graduate in Data Science and Artificial Intelligence from the University of Doha for Science and Technology (UDST).
 
 ### 🌱 About Me
 - Exploring Data Science, AI, and real-world applications  
